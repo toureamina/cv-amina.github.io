@@ -1,0 +1,25 @@
+img{
+    width: 20%;
+}
+#profile{
+ display: flex;
+}
+.p{
+    margin-left: 5%; margin-right: 4%; border: 1px solid blue; display: flex;
+   }
+#a{
+ text-align: center; position: relative; width: auto; font-family: Arial, Helvetica, sans-serif;
+ margin-bottom: 1px;
+}
+h3{
+    text-align: center; color: red;}
+
+h1{ text-align: center; color: royalblue;}
+body{font-family: Normal; 
+    background-color: rosybrown;
+
+
+}
+.G{
+    font-weight: bold;
+}
